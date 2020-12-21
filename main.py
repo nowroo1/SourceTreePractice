@@ -1,2 +1,5 @@
 print("hi")
-print("two")
+
+print("hihi")
+
+print("hi")
